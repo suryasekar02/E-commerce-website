@@ -2,19 +2,14 @@
 
 Explore the live version of the project by clicking  https://jpdentalproduct.com/
 
-# E-COMMERCE WEBSITE
+##Freelancing Site
 
-## Overview
-This project is a sophisticated and dynamic dashboard application developed during my internship, showcasing my front-end development and data visualization skills.
 
 ## Technologies Used
 - html
 - CSS
 - js
 - bootstrap
-- Chart.js
-- D3.js
-- Redux
 
 ## Key Features
 - Real-time data updates
@@ -23,9 +18,9 @@ This project is a sophisticated and dynamic dashboard application developed duri
 - Responsive design
 
 ## Usage
-1. Register or log in to access the dashboard.
-2. Explore the interactive charts and widgets.
-3. Customize the dashboard layout and settings as needed.
+1. Register or log in to access the e-COMMERCE
+2. Explore the interactive.![Screenshot_334](https://github.com/user-attachments/assets/792043ba-8e20-4dea-89e7-235431f6da2c)
+
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
